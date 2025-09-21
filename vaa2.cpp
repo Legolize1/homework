@@ -2,5 +2,10 @@
 using namespace std;
 
 int main(){
-    cout << "vaa2";
+    int a, b;
+    cout << "enter the first number: ";
+    cin >> a;
+
+    cout << "enter the second number: ";
+    cin >> b;
 }
