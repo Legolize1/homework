@@ -8,4 +8,6 @@ int main(){
 
     cout << "enter the second number: ";
     cin >> b;
+
+    cout << a * b << endl;
 }
